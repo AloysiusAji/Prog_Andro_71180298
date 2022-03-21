@@ -21,6 +21,7 @@ class FragmentB: Fragment() {
 
         //pindah dari Fragment ke Activity
         btnB.setOnClickListener {
+            
             //Toast untuk menampilkan pesan halaman ketika baru dibuka
             Toast.makeText(context, "Halaman 3", Toast.LENGTH_LONG).show()
 
