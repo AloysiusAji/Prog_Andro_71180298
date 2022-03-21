@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/activitypageone.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/activitypagethree.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/activitypagetwo.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/afragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/bfragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/c_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/Tugas/Semester 8/progAndro/ProjekAndroid/pertemuan6_71180298/app/src/main/res/layout/cfragment.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
